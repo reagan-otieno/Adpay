@@ -17,14 +17,14 @@
 // =============================================
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-  apiKey: "AIzaSyCcJu_p3-cxaHK6xPHJ2502Hd7ZPPxmcgU",
-  authDomain: "adpay-1e268.firebaseapp.com",
-  projectId: "adpay-1e268",
-  storageBucket: "adpay-1e268.firebasestorage.app",
-  messagingSenderId: "859881195590",
-  appId: "1:859881195590:web:8a4d6cc6c8a675a0992247",
-  measurementId: "G-80BCP9WDXQ"
+  const firebaseConfig = {
+    apiKey: "AIzaSyA6V1PdtRZjBXpgUWlxImNHKsIEjx2hNmI",
+    authDomain: "payadd-47298.firebaseapp.com",
+    projectId: "payadd-47298",
+    storageBucket: "payadd-47298.firebasestorage.app",
+    messagingSenderId: "921500142678",
+    appId: "1:921500142678:web:24ca7aaee82366ba6f7ff7",
+    measurementId: "G-KKF364909J"
 };
 // =============================================
 // FIREBASE SDK (loaded via CDN in HTML files)
