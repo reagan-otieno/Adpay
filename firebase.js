@@ -16,15 +16,16 @@
 // YOUR FIREBASE CONFIG (replace with yours from Firebase console):
 // =============================================
 
-const FIREBASE_CONFIG = {
-  apiKey:            "YOUR_API_KEY",
-  authDomain:        "YOUR_PROJECT.firebaseapp.com",
-  projectId:         "YOUR_PROJECT_ID",
-  storageBucket:     "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId:             "YOUR_APP_ID"
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyCcJu_p3-cxaHK6xPHJ2502Hd7ZPPxmcgU",
+  authDomain: "adpay-1e268.firebaseapp.com",
+  projectId: "adpay-1e268",
+  storageBucket: "adpay-1e268.firebasestorage.app",
+  messagingSenderId: "859881195590",
+  appId: "1:859881195590:web:8a4d6cc6c8a675a0992247",
+  measurementId: "G-80BCP9WDXQ"
 };
-
 // =============================================
 // FIREBASE SDK (loaded via CDN in HTML files)
 // This file sets up the db/auth references
